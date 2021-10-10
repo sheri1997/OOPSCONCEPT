@@ -10,7 +10,7 @@ namespace Inheritence
             newCar.Color();
             Console.WriteLine(newCar.brand);
             Console.WriteLine(newCar.modal);
-            
+            Console.WriteLine("changes made on Gitbash");
             
         }
     }
