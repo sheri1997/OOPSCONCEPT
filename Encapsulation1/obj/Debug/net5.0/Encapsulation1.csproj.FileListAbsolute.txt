@@ -1,0 +1,5 @@
+D:\BridgeLabz\Brizelabz practice\OOPSCONCEPT.git\Encapsulation1\obj\Debug\net5.0\Encapsulation1.csproj.AssemblyReference.cache
+D:\BridgeLabz\Brizelabz practice\OOPSCONCEPT.git\Encapsulation1\obj\Debug\net5.0\Encapsulation1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz\Brizelabz practice\OOPSCONCEPT.git\Encapsulation1\obj\Debug\net5.0\Encapsulation1.AssemblyInfoInputs.cache
+D:\BridgeLabz\Brizelabz practice\OOPSCONCEPT.git\Encapsulation1\obj\Debug\net5.0\Encapsulation1.AssemblyInfo.cs
+D:\BridgeLabz\Brizelabz practice\OOPSCONCEPT.git\Encapsulation1\obj\Debug\net5.0\Encapsulation1.csproj.CoreCompileInputs.cache

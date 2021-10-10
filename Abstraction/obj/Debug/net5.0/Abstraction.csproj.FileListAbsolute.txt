@@ -1,0 +1,16 @@
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\bin\Debug\net5.0\Abstraction.exe
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\bin\Debug\net5.0\Abstraction.deps.json
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.json
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.dev.json
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\bin\Debug\net5.0\Abstraction.dll
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\bin\Debug\net5.0\ref\Abstraction.dll
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\bin\Debug\net5.0\Abstraction.pdb
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\obj\Debug\net5.0\Abstraction.csproj.AssemblyReference.cache
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\obj\Debug\net5.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfoInputs.cache
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfo.cs
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\obj\Debug\net5.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\obj\Debug\net5.0\Abstraction.dll
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\obj\Debug\net5.0\ref\Abstraction.dll
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\obj\Debug\net5.0\Abstraction.pdb
+D:\BridgeLabz\Brizelabz practice\OOPS\Abstraction\obj\Debug\net5.0\Abstraction.genruntimeconfig.cache

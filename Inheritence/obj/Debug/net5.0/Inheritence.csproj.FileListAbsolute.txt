@@ -1,0 +1,16 @@
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\bin\Debug\net5.0\Inheritence.exe
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\bin\Debug\net5.0\Inheritence.deps.json
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\bin\Debug\net5.0\Inheritence.runtimeconfig.json
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\bin\Debug\net5.0\Inheritence.runtimeconfig.dev.json
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\bin\Debug\net5.0\Inheritence.dll
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\bin\Debug\net5.0\ref\Inheritence.dll
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\bin\Debug\net5.0\Inheritence.pdb
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\obj\Debug\net5.0\Inheritence.csproj.AssemblyReference.cache
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\obj\Debug\net5.0\Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\obj\Debug\net5.0\Inheritence.AssemblyInfoInputs.cache
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\obj\Debug\net5.0\Inheritence.AssemblyInfo.cs
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\obj\Debug\net5.0\Inheritence.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\obj\Debug\net5.0\Inheritence.dll
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\obj\Debug\net5.0\ref\Inheritence.dll
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\obj\Debug\net5.0\Inheritence.pdb
+D:\BridgeLabz\Brizelabz practice\OOPS\Inheritence\obj\Debug\net5.0\Inheritence.genruntimeconfig.cache
