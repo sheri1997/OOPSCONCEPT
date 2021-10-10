@@ -10,6 +10,7 @@ namespace Inheritence
             newCar.Color();
             Console.WriteLine(newCar.brand);
             Console.WriteLine(newCar.modal);
+            
         }
     }
 }
