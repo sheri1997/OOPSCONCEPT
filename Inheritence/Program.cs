@@ -11,6 +11,7 @@ namespace Inheritence
             Console.WriteLine(newCar.brand);
             Console.WriteLine(newCar.modal);
             
+            
         }
     }
 }
